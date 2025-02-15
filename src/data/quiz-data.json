@@ -1,0 +1,36 @@
+{
+  "title": "General Knowledge Quiz",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "What is the capital of France?",
+      "options": ["London", "Berlin", "Paris", "Madrid"],
+      "correctAnswer": "Paris"
+    },
+    {
+      "id": 2,
+      "type": "drag-drop",
+      "question": "Match the countries with their capitals",
+      "matches": [
+        {
+          "left": "Japan",
+          "right": "Tokyo"
+        },
+        {
+          "left": "Italy",
+          "right": "Rome"
+        },
+        {
+          "left": "Spain",
+          "right": "Madrid"
+        }
+      ],
+      "correctAnswer": {
+        "Japan": "Tokyo",
+        "Italy": "Rome",
+        "Spain": "Madrid"
+      }
+    }
+  ]
+}
